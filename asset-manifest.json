@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RestaurantMenu-using-React-and-tailwindcss-/static/css/main.a82af6de.css",
+    "main.js": "/RestaurantMenu-using-React-and-tailwindcss-/static/js/main.976589b7.js",
+    "index.html": "/RestaurantMenu-using-React-and-tailwindcss-/index.html",
+    "main.a82af6de.css.map": "/RestaurantMenu-using-React-and-tailwindcss-/static/css/main.a82af6de.css.map",
+    "main.976589b7.js.map": "/RestaurantMenu-using-React-and-tailwindcss-/static/js/main.976589b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a82af6de.css",
+    "static/js/main.976589b7.js"
+  ]
+}
